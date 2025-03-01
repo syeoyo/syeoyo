@@ -1,6 +1,6 @@
 ## Hi there 🙌🏻
 
-
+I'm an undergraduate student, interested in systems modeling and optimization.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
