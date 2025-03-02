@@ -36,5 +36,5 @@
   <a target="_blank"href="https://ie.yonsei.ac.kr/ie/index.do"><img src="https://img.shields.io/badge/Yonsei IIE-00205B?&style=for-the-badge&logo=eagle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://uic.yonsei.ac.kr/main/main.asp"><img src="https://img.shields.io/badge/Yonsei ECON-00205B?&style=for-the-badge&logo=eagle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://as.nyu.edu/departments/econ.html"><img src="https://img.shields.io/badge/NYU ECON-56018D?&style=for-the-badge&logo=new york times&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="http://english.minjok.hs.kr/contents/main.php"><img src="https://img.shields.io/badge/KMLA-ffc0cb?&style=for-the-badge&logo=red candle games&logoColor=white" /></a>
+  <a target="_blank"href="http://english.minjok.hs.kr/contents/main.php"><img src="https://img.shields.io/badge/KMLA-E6526F?&style=for-the-badge&logo=red candle games&logoColor=white" /></a>
 </p>
