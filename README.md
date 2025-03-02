@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/CPLEX-004088?style=for-the-badge&logo=cplex&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SimpleX-000000?style=for-the-badge&logo=SimpleX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SimpleX-000000?style=for-the-badge&logo=SimpleX&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Gurobi-EE4C2C?style=for-the-badge&logo=Gurobi&logoColor=white"/>&nbsp;
