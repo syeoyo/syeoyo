@@ -35,12 +35,3 @@
   <a target="_blank"href="https://uic.yonsei.ac.kr/main/main.asp"><img src="https://img.shields.io/badge/Yonsei UIC-00205B?&style=for-the-badge&logo=eagle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="http://english.minjok.hs.kr/contents/main.php"><img src="https://img.shields.io/badge/KMLA-ffc0cb?&style=for-the-badge&logo=red candle games&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<hr>
-
-<h2  align="center"> 📫 Reach me on </h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/seohyun-jang-56897733b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jangseohyun@yonsei.ac.kr?subject=Hello%20Seohyun,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
