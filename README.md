@@ -7,6 +7,7 @@ I'm an undergraduate student, interested in systems modeling and optimization.
   <img src="https://img.shields.io/badge/Gurobi-EE4C2C?style=flat-square&logo=Gurobi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SimpleX-000000?style=flat-square&logo=SimpleX&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 </p>
