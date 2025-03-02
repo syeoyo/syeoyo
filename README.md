@@ -18,9 +18,9 @@
 <h2 align="center"> ⚙️ tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CPLEX-004088?style=for-the-badge&logo=cplex&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CPLEX-004088?style=for-the-badge&logo=cplex&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SimpleX-000000?style=for-the-badge&logo=SimpleX&logoColor=white"/>
 </p>
 <p align="center">
