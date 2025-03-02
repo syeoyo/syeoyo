@@ -1,12 +1,5 @@
-<!--
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
--->
-
-<h2 align="center"> 👨‍💻 whoami</h2>
+<hr>
+<h2 align="center"> 👩🏻‍💻 whoami</h2>
 <p align="center">
   <samp> I'm an undergraduate student, interested in systems modeling and optimization.
   </samp>
@@ -16,22 +9,31 @@
 
 <hr>
 
+<h2 align="center"> 🖥️ Lab</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://symply.yonsei.ac.kr/"><img src="https://img.shields.io/badge/SYMPLY-1766FF?&style=for-the-badge&logo=sega&logoColor=white" /></a>
+</p>
+<hr>
+
 <h2 align="center"> ⚙️ Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gurobi-EE4C2C?style=for-the-badge&logo=Gurobi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SimpleX-000000?style=for-the-badge&logo=SimpleX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CPLEX-004088?style=for-the-badge&logo=cplex&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arena-CD163F?style=for-the-badge&logo=rockwell automation&logoColor=white"/>
 </p>
 <hr>
 
 <h2 align="center"> 📚 Education </h2>
 <p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://ie.yonsei.ac.kr/ie/index.do"><img src="https://img.shields.io/badge/Yonsei IIE-00205B?&style=for-the-badge&logo=eagle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://uic.yonsei.ac.kr/main/main.asp"><img src="https://img.shields.io/badge/Yonsei UIC-00205B?&style=for-the-badge&logo=eagle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="http://english.minjok.hs.kr/contents/main.php"><img src="https://img.shields.io/badge/KMLA-ffc0cb?&style=for-the-badge&logo=red candle games&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -41,8 +43,4 @@
   <a target="_blank"href="https://www.linkedin.com/in/seohyun-jang-56897733b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jangseohyun@yonsei.ac.kr?subject=Hello%20Seohyun,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<hr>
-
-<h2  align="center"> ⬇️ Check Out My Repos </h2>
 
