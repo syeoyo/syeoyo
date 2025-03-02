@@ -1,10 +1,8 @@
 <hr>
 <h2 align="center"> 👩🏻‍💻 whoami</h2>
 <p align="center">
-  <samp> I'm an undergraduate student, interested in systems modeling and optimization.
+  <samp> I am an undergraduate student passionate about systems modeling and optimization. <br> My primary focus is on optimized decision-making across various industries, <br>leveraging mathematical programming techniques to drive efficient, strategic, and data-driven solutions.
   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=syeoyo" alt="https://github.com/syeoyo" />
 </p>
 
 <hr>
