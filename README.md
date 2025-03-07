@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Gurobi-EE4C2C?style=for-the-badge&logo=Gurobi&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Arena-CD163F?style=for-the-badge&logo=rockwell automation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arena-CD163F?style=for-the-badge&logo=rockwellautomation&logoColor=white"/>
 </p>
 <hr>
 
